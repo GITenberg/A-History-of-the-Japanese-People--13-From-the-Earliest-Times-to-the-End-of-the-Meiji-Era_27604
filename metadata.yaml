@@ -19,6 +19,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/32791
     wikipedia: http://en.wikipedia.org/wiki/Kikuchi_Dairoku
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/27604#A-History-of-the-Japanese-People--13-From-the-Earliest-Times-to-the-End-of-the-Meiji-Era
 gutenberg_issued: '2008-12-23'
 gutenberg_type: Text
 identifiers:
