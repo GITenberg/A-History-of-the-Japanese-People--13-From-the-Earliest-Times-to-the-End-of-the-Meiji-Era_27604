@@ -1,0 +1,37 @@
+_repo: A-History-of-the-Japanese-People--13-From-the-Earliest-Times-to-the-End-of-the-Meiji-Era_27604
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Brinkley, F. (Frank)
+    alias: Brinkley, Frank
+    birthdate: 1841
+    deathdate: 1912
+    gutenberg_agent_id: '32790'
+    url: http://www.gutenberg.org/2009/agents/32790
+  - agent_name: Kikuchi, Dairoku
+    alias: 菊池 大麓
+    birthdate: 1855
+    deathdate: 1917
+    gutenberg_agent_id: '32791'
+    url: http://www.gutenberg.org/2009/agents/32791
+    wikipedia: http://en.wikipedia.org/wiki/Kikuchi_Dairoku
+description: ''
+gutenberg_issued: '2008-12-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27604'
+  lccn: '15001681'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Japan -- History'
+- !lcc 'DS'
+- !lcsh 'Japan -- Civilization'
+title: "A History of the Japanese People\r\nFrom the Earliest Times to the End of\
+  \ the Meiji Era"
+url: http://www.gutenberg.org/ebooks/27604
